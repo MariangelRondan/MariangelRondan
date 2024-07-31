@@ -11,7 +11,7 @@
   
   
 
-- 🌠 Technology is constantly evolving, and I enjoy staying updated with the latest trends and tools. Currently, I'm focused on improving my skills in Next.js and UX|UY Design.  
+- 🌠 Technology is constantly evolving, and I enjoy staying updated with the latest trends and tools. 
   
 
 - 💃 When I'm not immersed in programming, I find immense joy in music. Over the past year, I've discovered great happiness through dancing Salsa and Bachata.  
