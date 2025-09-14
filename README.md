@@ -6,9 +6,6 @@
 ### <div align="center">Hey there! 👋  I'm Mariangel, a passionate Full Stack developer 👨‍💻 from Uruguay, with a constant enthusiasm for exploring and discovering new horizons in the world of technology 🚀.</div> 
 
   
-
-- 🌱 Since my childhood, I've always been a curious girl, and now, as an IT professional, I find great joy in the geographical freedom that my work provides. 
-  
   
 
 - 🌠 Technology is constantly evolving, and I enjoy staying updated with the latest trends and tools. 
